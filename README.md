@@ -69,3 +69,7 @@ To run this application:
 ## License
 
 This project is open-sourced under the MIT license. Feel free to use, modify, and distribute the code as you see fit.
+
+## Next Steps
+
+I wanted to scaffold up a single page site to work and play with this API. The next step for me here would use it as a opportunity to build it out in either React or Next. I will be working on researching on next steps forward but I'm always open to suggestions or recommendations.
